@@ -1,0 +1,6 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="tvMessage" tools:ignore="MissingTranslation">Hola Lourdes!</string>
+    <string name="btAccept" tools:ignore="MissingTranslation">Aceptar</string>
+    <string name="app_name">HelloWorld</string>
+    <string name="tvMessage2">Hello dude</string>
+</resources>
