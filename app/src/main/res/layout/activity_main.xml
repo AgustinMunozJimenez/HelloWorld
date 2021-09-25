@@ -6,13 +6,13 @@
     tools:context=".MainActivity">
 
     <TextView
-        android:id="@+id/textocaca"
+        android:id="@+id/tvMessage"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/tvMessage" />
 
     <Button
-        android:id="@+id/botoncaca"
+        android:id="@+id/btAceptar"
         android:layout_width="0dp"
         android:layout_height="61dp"
         android:layout_weight="1"
